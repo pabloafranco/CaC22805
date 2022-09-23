@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//pabloafranco.github.io/piedrapapeltijera/static/css/main.a29bb910.css",
+    "main.js": "//pabloafranco.github.io/piedrapapeltijera/static/js/main.af27b9c9.js",
+    "index.html": "//pabloafranco.github.io/piedrapapeltijera/index.html",
+    "main.a29bb910.css.map": "//pabloafranco.github.io/piedrapapeltijera/static/css/main.a29bb910.css.map",
+    "main.af27b9c9.js.map": "//pabloafranco.github.io/piedrapapeltijera/static/js/main.af27b9c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a29bb910.css",
+    "static/js/main.af27b9c9.js"
+  ]
+}
